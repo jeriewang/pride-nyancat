@@ -1,7 +1,7 @@
 /*
- * Copyright (c) 2020 Jerry Wang.
+ * Copyright (c) 2020 Jerie Wang.
  *
- * Pride flags added by:    Jerry Wang
+ * Pride flags added by:    Jerie Wang
  *                          https://github.com/pkqxdd/pride-flag-nyancat
  *
  * Animation developed by:  K. Lange
